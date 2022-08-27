@@ -1,0 +1,27 @@
+mims
+
+objective: reduce expiration date
+
+standard for medicine
+
+medicine category and information
+
+
+
+admin add medicine: name, category, price, description, image
+
+pharmacist: add availability, quantity.
+
+
+delivery charge: 20 in same place
+			50 in other place
+
+pharmacist choose between sale or purchase
+
+sale request enter quantity 
+
+admin make the exchange using delivery
+
+
+
+ 
