@@ -13,7 +13,7 @@ This project is used by four types of users:
 - Administrator 
 - Delivery
 
-#^ two spaces
+
 
 The functionalities of each type: 
 - Client has the ability to view and buy product. 
